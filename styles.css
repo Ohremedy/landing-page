@@ -89,7 +89,7 @@ header .navigation a:hover {
 }
 .media a {
   position: relative;
-  color: #111;
+  color:white;
   font-size: 26px;
   transition: 0.3s;
   transition-property: transform;
